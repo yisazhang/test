@@ -44,16 +44,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/test/HelloWorld/manage.py" />
-        <option value="$USER_HOME$/test/HelloWorld/HelloWorld/view2.py" />
-        <option value="$USER_HOME$/test/HelloWorld/template/简历.html" />
-        <option value="$USER_HOME$/test/HelloWorld/HelloWorld/settings.py" />
-        <option value="$USER_HOME$/test/HelloWorld/template/test.html" />
-        <option value="$USER_HOME$/test/HelloWorld/template/moban.html" />
-        <option value="$USER_HOME$/test/HelloWorld/HelloWorld/view.py" />
-        <option value="$USER_HOME$/test/HelloWorld/HelloWorld/urls.py" />
-        <option value="$USER_HOME$/test/HelloWorld/template/lizi.html" />
-        <option value="$USER_HOME$/test/HelloWorld/template/jianli.html" />
+        <option value="$PROJECT_DIR$/manage.py" />
+        <option value="$PROJECT_DIR$/HelloWorld/view2.py" />
+        <option value="$PROJECT_DIR$/template/简历.html" />
+        <option value="$PROJECT_DIR$/HelloWorld/settings.py" />
+        <option value="$PROJECT_DIR$/template/test.html" />
+        <option value="$PROJECT_DIR$/template/moban.html" />
+        <option value="$PROJECT_DIR$/HelloWorld/view.py" />
+        <option value="$PROJECT_DIR$/HelloWorld/urls.py" />
+        <option value="$PROJECT_DIR$/template/lizi.html" />
+        <option value="$PROJECT_DIR$/template/jianli.html" />
       </list>
     </option>
   </component>
@@ -89,7 +89,14 @@
     </navigator>
     <panes>
       <pane id="ProjectPane">
-        <subPane />
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HelloWorld" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
       </pane>
       <pane id="Scope" />
       <pane id="Scratches" />
@@ -103,10 +110,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$USER_HOME$/test/HelloWorld" />
+      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$USER_HOME$/test/HelloWorld/HelloWorld" />
+      <recent name="$PROJECT_DIR$/HelloWorld" />
     </key>
   </component>
   <component name="RunManager">
